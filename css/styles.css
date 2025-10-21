@@ -69,8 +69,8 @@ text-align: center;
 color: #FFFFFF;
 }
 .order{
-    font-family: "Roboto";
-    font-weight: 500;
+    font-family: "Roboto" , sans-serif;
+    font-weight: 500; 
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
@@ -79,7 +79,9 @@ color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
 }
-.btn:hover ,
+.btn:hover{
+background-color:#404BBF;
+}
 .btn:active{
     background-color: #404BBF;
 }
