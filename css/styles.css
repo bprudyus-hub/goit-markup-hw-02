@@ -82,7 +82,7 @@ color: #FFFFFF;
 .order:hover{
 background-color:#404BBF;
 }
-.order:active{
+.order:focus{
     background-color: #404BBF;
 }
 .section_two_title{
