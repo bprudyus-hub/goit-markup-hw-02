@@ -1,147 +1,177 @@
 .body{
-font-family: 'Roboto',
+font-family: "Roboto",
 'Raleway', sans-serif ;
-color: #434455; ;
+color: #434455;
+background-color: #ffff;
 }
 .logo{
-font-family: 'Raleway';
+font-family: "Raleway" sans-serif;
 font-size: 18px;
 font-weight: 700;
 font-style: bold;
 text-transform: uppercase;
 color: #4D5AE5;
-line-height: 1.16;
-letter-spacing: 3%;
+line-height: 1.17;
+letter-spacing: 0.03em;
 
 }
 .logo_studio{
-font-family: 'Raleway';
+font-family: "Raleway" sans-serif;
 font-size: 18px;
 font-weight: 700;
 font-style: bold;
-line-height: 1.16;
+line-height: 1.17;
+letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2E2F42;
 }
 .nav_link{
-font-family: 'Roboto';
+font-family: "Roboto";
 font-size: 16px;
 font-weight: 500;
 font-style: bold;
 line-height: 1.5;
-letter-spacing: 2%;
+letter-spacing: 0.02em;
 color: #2E2F42;
 }
 .nav_link:hover{
     color: #404BBF;
 }
 .nav_link:hover ,
-.nav_link:active{
+.nav_link:focus{
     color: #404BBF;
 }
+.address_info{
+    font-style: normal;
+}
+
 .contacts_link{
     font-family: 'Roboto';
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4%;
+    letter-spacing: 0.02em;
     color:#434455 ;
-    font-style: normal;
 }
 .contacts_link:hover ,
-.contacts_link:active{
+.contacts_link:focus{
     color: #404BBF;
 }
+.hero{
+    background-color: #2e2f42;
+}
 .main-page-title{
-font-family: 'Roboto';
+font-family: "Roboto";
 font-weight: 500;
 font-size: 56px;
-letter-spacing: 2%;
-line-height: 1.08;
+letter-spacing: 0.02em;
+line-height: 1.07;
+text-align: center;
+color: #FFFFFF;
 }
-.button{
-    font-family: 'Roboto';
+.btn{
+    font-family: "Roboto";
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 4%;
+    letter-spacing: 0.04em;
     text-decoration: underline;
     color: #ffff;
     background-color: #4D5AE5;
     padding: 16px 32px 16px 32px;
     cursor: pointer;
 }
-.button:hover ,
-.button:active{
+.btn:hover ,
+.btn:active{
     background-color: #404BBF;
 }
 .section_two_title{
-font-family: 'Roboto';
+font-family: "Roboto";
 font-weight: 500;
 font-size: 20px;
-letter-spacing: 2%;
+letter-spacing: 0.02em;
 line-height: 1.2;
 }
 .section_two_text{
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    color: #434455;
 
 }
+.team{
+background-color: #F4F4FD;
+}
 .our_team{
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-weight: 700;
     font-style: Bold;
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
+   
+}
+.team_list{
+    background-color: #FFFFFF;
 }
 .team_title{
-    font-family: 'Roboto';
+    font-family: "Roboto";
     font-weight: 500;
     font-style: Medium;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
+    color: #2E2F42;
 }
 .team_text{
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
+    color: #434455;
+
 }
-.Our_Portfolio{
-    font-family: Roboto;
+.Our_prtf{
+    font-family: "Roboto";
     font-weight: 700;
     font-style: Bold;
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
+    color: #2E2F42;
 }
 .porfolio_title{
-font-family: 'Roboto';
+font-family: "Roboto";
 font-weight: 500;
 font-style: Medium;
 font-size: 20px;
 line-height: 1.2;
-letter-spacing: 2%;
+letter-spacing: 0.02em;
 text-align: center;
+color: #2E2F42;
 }
 .portfolio_text{
-font-family: Roboto;
+font-family: "Roboto";
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 2%;
 text-align: center;
 }
+.ftr{
+    background-color: #2E2F42;
+}
 .footer_text{
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
