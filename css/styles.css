@@ -79,10 +79,10 @@ color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
 }
-.btn:hover{
+.order:hover{
 background-color:#404BBF;
 }
-.btn:active{
+.order:active{
     background-color: #404BBF;
 }
 .section_two_title{
