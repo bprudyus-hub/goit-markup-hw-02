@@ -59,7 +59,7 @@ color: #2E2F42;
 .hero{
     background-color: #2e2f42;
 }
-.mn_pg_ttl{
+.section_one_title{
 font-family: "Roboto";
 font-weight: 500;
 font-size: 56px;
@@ -68,7 +68,7 @@ line-height: 1.07;
 text-align: center;
 color: #FFFFFF;
 }
-.btn{
+.order{
     font-family: "Roboto";
     font-weight: 500;
     font-size: 16px;
