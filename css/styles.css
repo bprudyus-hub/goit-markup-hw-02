@@ -73,8 +73,8 @@ color: #ffff;
 background-color: #4D5AE5;
 cursor: pointer;
 }
-.order:hover , 
-.order:focus{
+.btn_service:hover , 
+.btn_service:focus{
 background-color:#404BBF;
 }
 
