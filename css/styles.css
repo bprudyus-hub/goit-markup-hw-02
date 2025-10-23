@@ -36,7 +36,9 @@ color: #2E2F42;
 .nav_link:focus{
     color: #404BBF;
 }
-
+.address_info {
+    font-style: normal;
+}
 
 .contacts_link{
     font-family: 'Roboto';
